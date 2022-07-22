@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on assignments for undergraduates,
+  assignments for graduate students, and a sample paper written by a student.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fe7ab403-58ee-f870-2116-a0ddc4ccd6fd
 ---
@@ -24,4 +29,4 @@ Graduate Students
 Sample Paper
 ------------
 
-["Social Movements, Law, and Public Policy for Land and House in South Africa." (PDF)]({{< baseurl >}}/resources/mit11_166s12_studentpaper) (Courtesy of an MIT student. Used with permission.)
+{{% resource_link 5589242d-f5b3-68dc-aa59-e877262f4748 "\"Social Movements, Law, and Public Policy for Land and House in South Africa.\" (PDF)" %}} (Courtesy of an MIT student. Used with permission.)
