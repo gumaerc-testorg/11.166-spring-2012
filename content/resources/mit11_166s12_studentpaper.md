@@ -6,6 +6,7 @@ file: /courses/11-166-law-social-movements-and-public-policy-comparative-and-int
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "The seed is mine\u2026 Only the land is theirs."
 uid: 5589242d-f5b3-68dc-aa59-e877262f4748
 ---
 Example of student work for a writing assignment on social movements, law, and public policy for land and housing in South Africa.
-
