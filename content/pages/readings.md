@@ -147,7 +147,7 @@ Voss, Kim. "The Collapse of a Social Movement: The Interplay of Mobilizing Struc
 
 Ansley, Fran. "Local Contact Points, Global Divides: Labor Rights and Immigrant Rights as Sites for Cosmopolitan Legality." In *Law and Globalization from Below: Towards a Cosmopolitan Legality*. Edited by Boaventura de Sousa Santos, and Cesar Rodriguez-Garavito. Cambridge University Press, 2005. ISBN: 9780521607353. \[Preview with [Google Books](http://books.google.com/books?id=KXXirMSkTXIC&pg=PA158#v=onepage)\]
 
-Gordon, Jennifer. "[Law, Lawyers and Labor: The United Farmworkers Legal Strategy in the 1960s and 70s and the Role of Law in Union Organizing Today." (PDF - 4.7MB)](https://www.law.upenn.edu/journals/jbl/articles/volume8/issue1/Gordon8U.Pa.J.Lab.&Emp.L.1%282005%29.pdf). *U. PA. Journal of Labor and Employment Law* 8, no. 1 (2006).
+Gordon, Jennifer. "[Law, Lawyers and Labor: The United Farmworkers Legal Strategy in the 1960s and 70s and the Role of Law in Union Organizing Today." (PDF - 4.7MB)](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1232&context=jbl). *U. PA. Journal of Labor and Employment Law* 8, no. 1 (2006).
 
 ### Recommended
 
